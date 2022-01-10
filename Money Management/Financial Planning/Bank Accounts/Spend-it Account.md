@@ -1,3 +1,4 @@
+# Spend-It Account
 ## Purpose of Account
 This is where the money meant for monthly expenditure is to be transferred to. All monthly expenditure including food, rent, subscriptions are spent from this account.
 

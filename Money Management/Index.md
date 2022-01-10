@@ -10,6 +10,7 @@
 1. [Income Account](../Money%20Management/Financial%20Planning/Bank%20Accounts/Income%20Account.md)
 2. [Spend-it Account](../Money%20Management/Financial%20Planning/Bank%20Accounts/Spend-it%20Account.md)
 3. [Invest-it Account](../Money%20Management/Financial%20Planning/Bank%20Accounts/Invest-it%20Account.md)
+4. [Allocation of money to Bank Accounts.](../Money%20Management/Financial%20Planning/Bank%20Accounts/Allocation%20of%20money%20to%20Bank%20Accounts.md)
 
 ### Safety Net
 1. [Emergency Fund](../Money%20Management/Financial%20Planning/Safety%20Net/Emergency%20Fund.md)

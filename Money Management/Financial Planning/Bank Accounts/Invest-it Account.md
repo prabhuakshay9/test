@@ -1,3 +1,4 @@
+# Invest-it Account
 ## Purpose of Account
 This is where your monthly savings is transferred to. From here, the money is invested in various instruments. This is the account that should be linked to all the financial instrument vending places.
 
