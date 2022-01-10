@@ -1,4 +1,7 @@
 # Invest-it Account
+[Index](../../../Money%20Management/Index.md) > [Bank Accounts - Index](../../../Money%20Management/Financial%20Planning/Bank%20Accounts/Bank%20Accounts%20-%20Index.md) > Invest-It Account
+
+---
 ## Purpose of Account
 This is where your monthly savings is transferred to. From here, the money is invested in various instruments. This is the account that should be linked to all the financial instrument vending places.
 
